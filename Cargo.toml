@@ -1,0 +1,14 @@
+[package]
+name = "slice"
+description = "lightweight editor for working with structured content"
+authors = ["Ramnath R Iyer <riyer@optimix.dev>"]
+version = "0.1.0"
+edition = "2021"
+homepage = "https://github.com/rri/slice"
+repository = "https://github.com/rri/slice"
+readme = "https://github.com/rri/slice#readme"
+license = "GPL-3.0-only"
+keywords = ["development-tools"]
+categories = ["development-tools", "text-editors"]
+
+[dependencies]
